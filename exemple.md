@@ -1,5 +1,3 @@
-
-
 # 📁 mini-foundations/ (exemples détaillés)
 
 ---
